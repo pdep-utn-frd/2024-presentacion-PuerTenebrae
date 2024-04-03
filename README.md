@@ -10,6 +10,8 @@
 - Mi cumpleaños es el dia del estudiante por ende en mi cumpleaños no hay clases
 - INTJ
 
+---------------------------------------------
+
 ## Intereses
 
 Tengo una fascinación por probar cosas nuevas todo el tiempo por lo tanto tengo tantos intereses que no me alcanzaria el dia para escribirlos
@@ -21,6 +23,8 @@ Tengo una fascinación por probar cosas nuevas todo el tiempo por lo tanto tengo
 - Peliculas (de las dificiles de entender)
 - Videojuegos (juego desde que tengo 6 años)
 - Musica (escucho demasiada musica de muchas epocas)
+
+---------------------------------------------
 
 ## Bonus Track
 
@@ -39,4 +43,4 @@ Para cerrar voy a dejar una cita del libro que estoy leyendo actualmente
 ![image](https://github.com/pdep-utn-frd/2024-presentacion-PuerTenebrae/blob/main/image1.jpeg)
 
 --------------------------------------------
-#### PD: me encuentran en todas las redes por el nombre de usuario de GitHub 
+#### PD: Me encuentran en todas las redes sociales por el nombre de usuario de GitHub 
