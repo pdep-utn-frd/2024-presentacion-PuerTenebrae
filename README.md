@@ -9,7 +9,7 @@
 - Soy de Campana
 - Mi cumpleaños es el dia del estudiante por ende en mi cumpleaños no hay clases
 - INTJ
----------------------------------------------
+
 ## Intereses
 
 Tengo una fascinación por probar cosas nuevas todo el tiempo por lo tanto tengo tantos intereses que no me alcanzaria el dia para escribirlos
@@ -32,5 +32,6 @@ Para cerrar voy a dejar una cita del libro que estoy leyendo actualmente
 > *El artista busca también la suya, porque la Belleza es una verdad animada por la imaginación, más que por la experiencia.*  
 >  
 > *El moralista la persigue en el Bien, que es una recta lealtad de la conducta para consigo mismo y para con los demás.*
+---------------------------------------------
 
 ## 
