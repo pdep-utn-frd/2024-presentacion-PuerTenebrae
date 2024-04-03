@@ -1,10 +1,10 @@
-# Presentación 
+# Presentación ##### Juan Pablo Grigoli
 
 > *El ideal es un gesto del espíritu hacia alguna perfección - Jose Ingenieros*
 
 ## Sobre Mi
 
-- Soy Juan
+- Soy Juan (en realidad es Juan Pablo pero con Juan es suficiente)
 - Tengo 22 años 
 - Soy de Campana
 - Mi cumpleaños es el dia del estudiante por ende en mi cumpleaños no hay clases
