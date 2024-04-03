@@ -38,4 +38,5 @@ Para cerrar voy a dejar una cita del libro que estoy leyendo actualmente
 
 ![image](https://github.com/pdep-utn-frd/2024-presentacion-PuerTenebrae/blob/main/image1.jpeg)
 
-
+--------------------------------------------
+#### PD: me encuentran en todas las redes por el nombre de usuario de GitHub 
