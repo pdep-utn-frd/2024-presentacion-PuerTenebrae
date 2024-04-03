@@ -33,7 +33,8 @@ Para cerrar voy a dejar una cita del libro que estoy leyendo actualmente
 >  
 > *El moralista la persigue en el Bien, que es una recta lealtad de la conducta para consigo mismo y para con los demás.*
 ---------------------------------------------
-Mi espiritu animal
+
+### Mi espiritu animal
 
 ![image](https://github.com/pdep-utn-frd/2024-presentacion-PuerTenebrae/blob/main/image1.jpeg)
 
