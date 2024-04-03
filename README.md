@@ -35,5 +35,6 @@ Para cerrar voy a dejar una cita del libro que estoy leyendo actualmente
 ---------------------------------------------
 Mi espiritu animal
 
-![Texto alternativo](ruta/a/la/imagen.jpg)
+![image](https://github.com/pdep-utn-frd/2024-presentacion-PuerTenebrae/blob/main/image1.jpeg)
+
 
