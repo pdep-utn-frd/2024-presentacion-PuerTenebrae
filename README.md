@@ -9,7 +9,7 @@
 - Soy de Campana
 - Mi cumpleaños es el dia del estudiante por ende en mi cumpleaños no hay clases
 - INTJ
-
+---------------------------------------------
 ## Intereses
 
 Tengo una fascinación por probar cosas nuevas todo el tiempo por lo tanto tengo tantos intereses que no me alcanzaria el dia para escribirlos
